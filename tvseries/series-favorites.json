@@ -1,0 +1,47 @@
+{
+  "series": [
+    {
+      "nome": "Good Girls",
+      "generos": ["Crime", "Drama", "Comedia"],
+      "descricao": "Três donas de casa suburbanas entram no mundo do crime para melhorar suas vidas financeiras.",
+      "poster": "https://www.tvinsider.com/wp-content/uploads/2019/01/GoodGirls_S2_KA_Vert_WebSafe-431x570.jpg"
+    },
+    
+    {
+      "nome": "Friends",
+      "generos": ["Comedia", "Drama"],
+      "descricao": "A vida de seis amigos que vivem em Nova York, enfrentando desafios e aventuras juntos.",
+      "poster": "https://cdn.europosters.eu/image/1300/posters/friends-series-de-tv-i104626.jpg"
+    },
+    {
+      "nome": "Grace and Frankie",
+      "generos": ["Comedia", "Drama"],
+      "descricao": "Duas mulheres idosas descobrem que seus maridos são gays e se tornam amigas improváveis.",
+      "poster": "https://woomagazine.com.br/wp-content/uploads/2018/02/28238361_963852517117430_1300577200428118446_o.jpg"
+    },
+    {
+      "nome": "The Good Place",
+      "generos": ["Comedia", "Fantasia"],
+      "descricao": "Após a morte, uma mulher é enviada para o 'Bom Lugar', mas logo percebe que há um erro.",
+      "poster": "https://br.web.img2.acsta.net/pictures/19/09/26/16/40/3994517.jpg"
+    },
+    {
+      "nome": "9-1-1 Fox",
+      "generos": ["Crime", "Drama"],
+      "descricao": "Acompanhe as vidas de policiais, bombeiros e paramédicos em Los Angeles enquanto enfrentam emergências.",
+      "poster": "https://images.justwatch.com/poster/198053815/s718/temporada-3.jpg"
+    },
+    {
+      "nome": "The Addams Family (1964 - 1966)",
+      "generos": ["Terror", "Comedia"],
+      "descricao": "A vida bizarra e excêntrica da família Addams, conhecida por suas peculiaridades.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMTA5MmM4ZmYtMWE4My00OGUzLWE0ZDQtNGE5Mjc3ZWM0Y2Q1XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg"
+    },
+    {
+      "nome": "Shining Vale",
+      "generos": ["Terror", "Comedia"],
+      "descricao": "Uma família se muda para uma casa assombrada em uma cidade que também é estranha.",
+      "poster": "https://br.web.img3.acsta.net/pictures/22/09/30/20/05/4887529.jpg"
+    }
+  ]
+}
